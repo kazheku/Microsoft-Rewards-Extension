@@ -1,6 +1,6 @@
 <h1> ¡Microsoft Rewards! </h1>
 
-<h2> What is microsoft rewards? </h2>
+<h2> What is Microsoft Rewards? </h2>
 
 Microsoft Rewards is a loyalty program launched by Microsoft that rewards users for engaging with their products and services. Users can earn points by completing various activities such as searching the web with Bing, shopping at Microsoft Store, taking quizzes, and participating in surveys. These points can be redeemed for a variety of rewards, including gift cards, Xbox Game Pass subscriptions, and discounts on Microsoft products. The program is free to join and offers multiple tiers of membership, each with its own set of perks and benefits. Microsoft Rewards is available in select countries, and users must have a Microsoft account to participate.
 
@@ -27,15 +27,15 @@ Once the script is installed, the following GUI will be displayed.
 
 ![Sin título](https://user-images.githubusercontent.com/115459058/221547567-794a8f3c-3d41-43ff-abee-a28ecf86ea4c.png)
 
-The script contains the following features:
+ 🔴 The script contains the following features:
 
-- Desktop searches : I recommend that you choose a number between 36 and 68, sometimes the script may fail and not complete the number of searches that microsoft asks us to do.
+- 🔎 **Desktop searches** : I recommend that you choose a number between 36 and 68, sometimes the script may fail and not complete the number of searches that microsoft asks us to do.
 
-- Mobile searches : I recommend that you choose a number between 27 and 42, for the same reason as the desktop searches.
+- 🔎 **Mobile searches** : I recommend that you choose a number between 27 and 42, for the same reason as the desktop searches.
 
-- Delay(ms) : Do not put neither 1, nor 0, I recommend 500 as it works perfectly.
+- ⏱ **Delay(ms)** : Do not put neither 1, nor 0, I recommend 500 as it works perfectly.
 
-- Platform spoofing : Here you choose desktop and mobile, as you save time in this task.
+- 💻 **Platform spoofing** : Here you choose desktop and mobile, as you save time in this task.
 
 The rest is left default, as shown in the image.
 
